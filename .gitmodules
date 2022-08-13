@@ -1,0 +1,3 @@
+[submodule "expressjs-bookstore-dev"]
+	path = expressjs-bookstore-dev
+	url = https://github.com/da8ah/expressjs-bookstore-dev.git
